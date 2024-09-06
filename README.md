@@ -1,6 +1,6 @@
 ### Olá pessoal!!
 
-- 📚 Estudo Git, HTML, JavaScript e Python
+- 📚 Sei html, python e js (me viro).
 - 📫 Você pode me encontrar no insta e telegram com o mesmo nome do GitHub.
 - 🔴 Meu projetinho dahora é o do repositorio "sitezinho", um projeto random meu só pra apresentação.
 - 🟡 Só tem site ruim aq, nem olha.
